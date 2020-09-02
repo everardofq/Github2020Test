@@ -1,0 +1,3 @@
+# Github2020Test
+This is an example where I add a txt file.
+This file its only for set the properties.
